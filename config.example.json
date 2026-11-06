@@ -1,0 +1,10 @@
+{
+  "host": "127.0.0.1",
+  "port": 8765,
+  "check_interval": 60,
+  "fail_threshold": 2,
+  "battery_low": 20,
+  "monitors": [
+    { "name": "내 블로그", "url": "https://example.com/", "expect_status": 200, "timeout": 10 }
+  ]
+}

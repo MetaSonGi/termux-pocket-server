@@ -1,0 +1,4 @@
+config.json
+.pocket.pid
+pocket.log
+__pycache__/
